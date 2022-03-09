@@ -1,8 +1,8 @@
 public  class Ractangle {
-    Integer a;
-    Integer b;
-    Integer area;
-    Integer parim;
+    public Integer a;
+    public Integer b;
+    public Integer area;
+    public Integer parim;
 
     public Ractangle(Integer a, Integer b) {
         this.a=a;

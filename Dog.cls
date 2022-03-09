@@ -1,8 +1,8 @@
 public class Dog {
 
-String name {get; set;}
-Integer age {get; set;}
-Double weight {get; set;}
+public String name {get; set;}
+public Integer age {get; set;}
+public Double weight {get; set;}
 
 
 

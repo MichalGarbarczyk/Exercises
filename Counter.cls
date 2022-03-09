@@ -1,6 +1,6 @@
 public class Counter {
     
-Integer numberOfPeopleInBulding;
+public Integer numberOfPeopleInBulding;
 
 public Counter() {
     this.numberOfPeopleInBulding = 0;
